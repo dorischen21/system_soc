@@ -1,1 +1,0 @@
-$(function(){var n=$("#baseUrl").val();$("#btn_createUser").bind("click",function(){window.location=n+"account/detailUser"})});
