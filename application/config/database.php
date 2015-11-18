@@ -48,16 +48,12 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-// local
-/*
-$db['default']['password'] = '5566no1';
-*/
 
-$db['default']['password'] = '5566no1db';
+$db['default']['password'] = '';
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
-$db['default']['database'] = 'soc';
+$db['default']['database'] = '';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;

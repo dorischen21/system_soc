@@ -14,8 +14,7 @@
 | path to your installation.
 |
 */
-//$config['base_url']	= 'https://192.168.1.182/soc';
-$config['base_url']	= 'https://122.147.81.83/soc';
+$config['base_url']	= '';
 
 /*
 |--------------------------------------------------------------------------
