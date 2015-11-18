@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400);
+
+.headerlogo {
+    color: #ff7400 !important;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;    
+    text-align: left;
+}
+
+.headerlogo:hover {
+  color: #ff7400;
+  text-decoration: none;
+}
